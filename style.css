@@ -47,11 +47,18 @@ input::placeholder {
   margin-left: -32px;
 }
 
-.icon {
+.search {
   position: absolute;
   top: 50%;
   transform: translate(0, -50%);
   left: 15px;
   height: 10px;
   width: 10px;
+}
+
+.alarm {
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  right: 40px;
 }

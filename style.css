@@ -43,6 +43,7 @@ input {
 }
 
 input::placeholder {
+  color: #555555;
   margin-left: -32px;
 }
 
